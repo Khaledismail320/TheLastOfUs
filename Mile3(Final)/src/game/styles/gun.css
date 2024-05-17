@@ -1,0 +1,10 @@
+.text {
+    -fx-font-size: 50px;
+    -fx-color: red;
+}
+
+.outline.text.text {
+    -fx-fill: lightseagreen;
+    -fx-stroke: firebrick;
+    -fx-stroke-width: 2px;
+}/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
