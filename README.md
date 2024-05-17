@@ -1,2 +1,2 @@
 # TheLastOfUs
-A 2D the last of us game
+A 2D the last of us game made using java and javafx
